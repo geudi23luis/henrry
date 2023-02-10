@@ -1,2 +1,2 @@
-# henrry
-repositorio de henrry comenzando 
+# henrry prepcurse
+introducion a mi primer repositorio
