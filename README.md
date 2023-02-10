@@ -1,2 +1,2 @@
-# henrry prepcurse
-introducion a mi primer repositorio
+# henrry aprende mejor
+aprendiendo a modificar repositorios
